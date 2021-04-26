@@ -1,0 +1,123 @@
+{"users":
+    [{
+      "idUser": 1,
+      "rol": "admin",
+      "area": "Redes y Sistemas",
+      "name": "Juan Carlos Zurita",
+      "email": "juan.carlos.zurita@tecnicascompetitivas.com",
+      "phone": "687451232",
+      "city": "Santa Cruz de Tenerife",
+      "address": "Calle 1",
+      "zipCode": "38120"
+    },
+    {
+      "idUser": 2,
+      "rol": "admin",
+      "area": "Redes y Sistemas",
+      "name": "Rayco Beckenbauer",
+      "email": "rayco.beckenbauer@tecnicascompetitivas.com",
+      "phone": "647123541",
+      "city": "San Cristóbal de la Laguna",
+      "address": "Calle 2",
+      "zipCode": "37540"
+    },
+    {
+      "idUser": 3,
+      "rol": "user",
+      "area": "Centralita",
+      "name": "Pepito García",
+      "email": "pepito.garcia@tecnicascompetitivas.com",
+      "phone": "625147896",
+      "city": "Santa Cruz de Tenerife",
+      "address": "Calle 3",
+      "zipCode": "38240"
+    },
+    {
+      "idUser": 4,
+      "rol": "user",
+      "area": "Centralita",
+      "name": "Sara Varas",
+      "email": "sara.varas@tecnicascompetitivas.com",
+      "phone": "632145184",
+      "city": "Puerto de la Cruz",
+      "address": "Calle 4",
+      "zipCode": "30980"
+    },
+    {
+      "idUser": 5,
+      "rol": "user",
+      "area": "Programación y desarrollo",
+      "name": "María Rodríguez",
+      "email": "maria.rodriguez@tecnicascompetitivas.com",
+      "phone": "625142135",
+      "city": "Candelaria",
+      "address": "Calle 5",
+      "zipCode": "28690"
+    },
+    {
+      "idUser": 6,
+      "rol": "user",
+      "area": "Dirección",
+      "name": "Ayoze Schumacher",
+      "email": "ayoze.schumacher@tecnicascompetitivas.com",
+      "phone": "621458425",
+      "city": "Santa Cruz de Tenerife",
+      "address": "Calle 11",
+      "zipCode": "38510"
+    },
+    {
+      "idUser": 7,
+      "rol": "user",
+      "area": "Recursos Humanos",
+      "name": "Meritxell Carmina",
+      "email": "meritxell.carmina@tecnicascompetitivas.com",
+      "phone": "625144195",
+      "city": "Candelaria",
+      "address": "Calle 6",
+      "zipCode": "28950"
+    },
+    {
+      "idUser": 8,
+      "rol": "user",
+      "area": "Telecomunicaciones",
+      "name": "Peter Michael",
+      "email": "peter.michael@tecnicascompetitivas.com",
+      "phone": "695214895",
+      "city": "San Cristóbal de la Laguna",
+      "address": "Calle 7",
+      "zipCode": "37620"
+    },
+    {
+      "idUser": 9,
+      "rol": "user",
+      "area": "Telecomunicaciones",
+      "name": "Juana Speed",
+      "email": "juana.speed@tecnicascompetitivas.com",
+      "phone": "625419562",
+      "city": "Los Realejos",
+      "address": "Calle 8",
+      "zipCode": "35201"
+    },
+    {
+      "idUser": 10,
+      "rol": "user",
+      "area": "Centralita",
+      "name": "Marcos de Madeu",
+      "email": "marcosde.madey@tecnicascompetitivas.com",
+      "phone": "625142030",
+      "city": "Santa Cruz de Tenerife",
+      "address": "Calle 9",
+      "zipCode": "38540"
+    },
+    {
+      "idUser": 11,
+      "rol": "user",
+      "area": "Centralita",
+      "name": "Mara Salvatrucha",
+      "email": "mara.salvatrucha@tecnicascompetitivas.com",
+      "phone": "623524874",
+      "city": "Santa Cruz de Tenerife",
+      "address": "Calle 10",
+      "zipCode": "38410"
+    }]
+}
