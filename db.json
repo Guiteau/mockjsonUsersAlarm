@@ -137,8 +137,8 @@
     {
       "idAlarm": 2,
       "hour": "10:50",
-      type:'date', "startDate": "Mon Apr 27 2021 17:41:38 GMT+0100 (hora de verano británica)",
-      type:'date', "endDate": "Mon Apr 27 2021 17:41:38 GMT+0100 (hora de verano británica)",
+      "startDate": "Mon Apr 27 2021 17:41:38 GMT+0100 (hora de verano británica)",
+      "endDate": "Mon Apr 27 2021 17:41:38 GMT+0100 (hora de verano británica)",
       "days": [],
       "comments": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cil",
       "linksList": ["https://www.google.es", "https://www.eldia.es"],
