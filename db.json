@@ -126,10 +126,10 @@
     {
       "idAlarm": 1,
       "hour": "18:41",
-      "startDate": "Mon Apr 27 2021 17:41:38 GMT+0100 (hora de verano británica)",
-      "endDate": "Mon Apr 27 2021 17:41:38 GMT+0100 (hora de verano británica)",
-      "days": [],
-      "comments": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cil",
+      "startDate": 1619650800000,
+      "endDate": 1620946800000,
+      "days": [{"day": "Lunes", "id": 1}, {"day": "Jueves", "id": 4}, {"day": "Sábado", "id": 6}],
+      "comments": "Alarma 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cil",
       "linksList": ["https://www.tecnicascompetitivas.com/", "www.eldia.es"],
       "isRepeated": false,
       "area": "Programación y desarrollo"
@@ -137,10 +137,10 @@
     {
       "idAlarm": 2,
       "hour": "10:50",
-      "startDate": "Mon Apr 27 2021 17:41:38 GMT+0100 (hora de verano británica)",
-      "endDate": "Mon Apr 27 2021 17:41:38 GMT+0100 (hora de verano británica)",
+      "startDate": 1619823600000,
+      "endDate": 1620169200000,
       "days": [],
-      "comments": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cil",
+      "comments": "Alarma 2. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "linksList": ["https://www.google.es", "https://www.eldia.es"],
       "isRepeated": false,
       "area": "Programación y desarrollo"
@@ -148,10 +148,10 @@
     {
       "idAlarm": 3,
       "hour": "20:51",
-      "startDate": "Sun May 09 2021 01:00:00 GMT+0100 (hora de verano británica)",
-      "endDate": "Wed May 05 2021 01:00:00 GMT+0100 (hora de verano británica)",
+      "startDate": 1620169200000,
+      "endDate": 1620428400000,
       "days": [],
-      "comments": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cil\"",
+      "comments": "Alarma 3. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "linksList": ["https://www.tecnicascompetitivas.com/", "https://www.eldia.es"],
       "isRepeated": false,
       "area": "Programación y desarrollo"
@@ -159,11 +159,11 @@
     {
       "idAlarm": 4,
       "hour": "08:54",
-      "startDate": "Sun May 09 2021 01:00:00 GMT+0100 (hora de verano británica)",
-      "endDate": "Thu May 20 2021 01:00:00 GMT+0100 (hora de verano británica)",
+      "startDate": 1619650800000,
+      "endDate": 1619650800000",
       "days": [{"day": "Lunes", "id": 1}, {"day": "Martes", "id": 2}, {"day": "Miércoles", "id": 3}, {"day": "Jueves", "id": 4}, {"day": "Viernes", "id": 5},
        {"day": "Sábado", "id": 6}, {"day": "Domingo", "id": 0}],
-      "comments": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cil\"",
+      "comments": "Alarma 4. At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
       "linksList": ["https://www.tecnicascompetitivas.com/", "https://stackoverflow.com/questions/46109030/compare-string-with-ng-if-angularjs"],
       "isRepeated": true,
       "area": "Programación y desarrollo"
@@ -171,10 +171,10 @@
     {
       "idAlarm": 5,
       "hour": "10:41",
-      "startDate": "Mon Apr 27 2021 17:41:38 GMT+0100 (hora de verano británica)",
-      "endDate": "Mon Apr 27 2021 17:41:38 GMT+0100 (hora de verano británica)",
+      "startDate": 1619737200000,
+      "endDate": 1620255600000,
       "days": [],
-      "comments": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cil",
+      "comments": "Alarma 5. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "linksList": ["https://www.tecnicascompetitivas.com/", "www.eldia.es"],
       "isRepeated": false,
       "area": "Redes y Sistemas"
@@ -182,10 +182,10 @@
     {
       "idAlarm": 6,
       "hour": "08:41",
-      "startDate": "Mon Apr 27 2021 17:41:38 GMT+0100 (hora de verano británica)",
-      "endDate": "Mon Apr 27 2021 17:41:38 GMT+0100 (hora de verano británica)",
+      "startDate": 1619737200000,
+      "endDate": 1619737200000,
       "days": [],
-      "comments": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cil",
+      "comments": "Alarma 6. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cil",
       "linksList": ["https://www.tecnicascompetitivas.com/", "www.eldia.es"],
       "isRepeated": false,
       "area": "Redes y Sistemas"
