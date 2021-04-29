@@ -160,7 +160,7 @@
       "idAlarm": 4,
       "hour": "08:54",
       "startDate": 1619650800000,
-      "endDate": 1619650800000",
+      "endDate": 1619650800000,
       "days": [{"day": "Lunes", "id": 1}, {"day": "Martes", "id": 2}, {"day": "Miércoles", "id": 3}, {"day": "Jueves", "id": 4}, {"day": "Viernes", "id": 5},
        {"day": "Sábado", "id": 6}, {"day": "Domingo", "id": 0}],
       "comments": "Alarma 4. At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
