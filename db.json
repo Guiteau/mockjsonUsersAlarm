@@ -131,7 +131,7 @@
       "endDate": 1620946800000,
       "creationDate": "2021-05-07T09:13:27.928Z",
       "days": [{"day": "Lunes", "id": 1}, {"day": "Jueves", "id": 4}, {"day": "Sábado", "id": 6}],
-      "comments": "Alarma 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cil",
+      "comments": "Alarma 1. Alarm, alarm, alarm.",
       "linksList": ["https://www.tecnicascompetitivas.com/", "www.eldia.es"],
       "isRepeated": false,
       "area": "Programación y desarrollo"
