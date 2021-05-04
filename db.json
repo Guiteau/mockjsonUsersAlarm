@@ -125,7 +125,7 @@
   [
     {
       "idAlarm": 1,
-      "userId": 500,
+      "userId": 50,
       "hour": "18:41",
       "startDate": 1619650800000,
       "endDate": 1620946800000,
