@@ -1,4 +1,10 @@
-{"users":
+{"login":
+ [{
+  "userName": "dmendez",
+  "password": "12345"
+ }]
+,
+"users":
     [{
       "idUser": 1,
       "rol": "admin",
