@@ -117,6 +117,120 @@
       "isi": ""
     }]
 ,
+"internalUsers":[
+     {
+      "name": "Juanito",
+      "surname": "en Rama",
+      "email": "rayco.beckenbauer@tecnicascompetitivas.com",
+      "phone": "647123541",
+      "mobile_phone": "",
+      "phone_24h": "",
+      "ext": "8454",
+      "isi": ""
+    },
+    {
+      "name": "Fefo",
+      "surname": "Pictorical",
+      "email": "fefo.pictorical@tecnicascompetitivas.com",
+      "phone": "922283521",
+      "mobile_phone": "677121541",
+      "phone_24h": "",
+      "ext": "2345",
+      "isi": ""
+    },
+    {
+      "name": "Rayco",
+      "surname": "Sprite Tirma",
+      "email": "rayco.sprite@tecnicascompetitivas.com",
+      "phone": "",
+      "mobile_phone": "647123541",
+      "phone_24h": "",
+      "ext": "8457",
+      "isi": ""
+    },
+    {
+     "name": "Pepito",
+      "surname": "Rodríguez Espita",
+      "email": "pepito.rodriguez@tecnicascompetitivas.com",
+      "phone": "647123541",
+      "mobile_phone": "",
+      "phone_24h": "",
+      "ext": "4542",
+      "isi": ""
+    },
+    {
+      "name": "Ayoze",
+      "surname": "Mix",
+      "email": "ayoze.mix@tecnicascompetitivas.com",
+      "phone": "922123542",
+      "mobile_phone": "625123541",
+      "phone_24h": "",
+      "ext": "5477",
+      "isi": ""
+    },
+    {
+      "name": "Chencho",
+      "surname": "Foot Locker",
+      "email": "chencho.foot@tecnicascompetitivas.com",
+      "phone": "",
+      "mobile_phone": "647323542",
+      "phone_24h": "",
+      "ext": "8452",
+      "isi": ""
+    }
+],
+"externalUsers": [
+     {
+      "name": "Carlos Alfedo",
+      "surname": "de Guttenberg",
+      "email": "carlos.alfredo@elcorteingles.com",
+      "phone": "922123541",
+      "mobile_phone": "627153641",
+      "phone_24h": "627153641",
+      "ext": "",
+      "isi": "AFC"
+    },
+    {
+      "name": "Obdulio Andrés",
+      "surname": "de Todos los Santos",
+      "email": "obdulio.andres@sevilla.com",
+      "phone": "922566771",
+      "mobile_phone": "695150692",
+      "phone_24h": "677183649",
+      "ext": "",
+      "isi": "FCB"
+    },
+    {
+      "name": "Chano",
+      "surname": "Felipe de Borbón",
+      "email": "chano.felipe@zarzuela.com",
+      "phone": "922121542",
+      "mobile_phone": "684121542",
+      "phone_24h": "684121542",
+      "ext": "",
+      "isi": "REI"
+    },
+    {
+      "name": "Marcos",
+      "surname": "Rojo Polo",
+      "email": "marcos.rojo@cocacola.com",
+      "phone": "922143591",
+      "mobile_phone": "687143591",
+      "phone_24h": "687143591",
+      "ext": "",
+      "isi": "GVT"
+    },
+    {
+      "name": "Martin",
+      "surname": "Paz Vegano",
+      "email": "martin.paz@intersport.com",
+      "phone": "922123541",
+      "mobile_phone": "637113551",
+      "phone_24h": "637113551",
+      "ext": "",
+      "isi": "SDR"
+    }
+],
 "alarms":
   [
     {
